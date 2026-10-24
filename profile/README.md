@@ -94,6 +94,7 @@ Omnesight engages with enterprise clients through institutional deployment frame
 
 <br/>
 
+
 <div align="center">
   <sub>© 2026 Omnesight Intelligence Layer. All architectural rights reserved.</sub>
 </div>
